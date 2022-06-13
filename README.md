@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @forgetuser
-- 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning php,js,css
+
 - 📫 How to reach me sandhu.arsh15@gmail.com.
 
 <!---
