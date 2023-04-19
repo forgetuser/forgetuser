@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @forgetuser
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning php,js,css
+- 🌱 I’m currently working with php,js,css,python
 
 - 📫 How to reach me sandhu.arsh15@gmail.com.
 
